@@ -19,3 +19,19 @@
 
 ## Youtube demo link : 
 https://youtu.be/k4jzVg6fW1Y
+
+
+**Build Tools & Versions Used.** Android Studio and Build tools 29.0.3
+
+**Your Focus Areas. What area(s) did you focus on when working on the project? The architecture and data flow? The UI? Something else? Please note what you think best exhibits your skills and areas of expertise.**
+
+* I focused on using the clean architecture pattern with standard materialistic UI guideline and framework to finish the development. 
+* I also focused on covering all the functionalities asked with unit testcases . 
+
+**Tablet / phone focus** Phone
+
+** How long you spent on the project. We’d like to know how long you spent on the project so we can calibrate our review. Please do not feel like you need to spend more than the expected 4-5 hours.** 
+4 hours. Definitely spent 30 mins documenting
+
+**Anything else you want us to know. If there’s anything else of note that you think we should know while evaluating the project, please let us know!**
+Youtube demo link https://youtu.be/k4jzVg6fW1Y
