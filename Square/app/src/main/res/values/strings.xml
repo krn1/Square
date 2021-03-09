@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Square</string>
+
+    <!-- EmployeetList Activity -->
+    <string name="employee_list_title">Employees</string>
+    <string name="default_empty_list">Something went wrong!\n Please pull to refresh or check back later </string>
+    <string name="nw_host_error">Unresolved Host: Please Check your internet connection</string>
+    <string name="nw_empty_list">Returned empty Employee List: Please pull to refresh later </string>
+    <string name="nw_error_msg">Unknown Error, Please pull to refresh or check back later! </string>
+    <string name="nw_malformed_msg">Missing important Data, Please try again later! </string>
+</resources>
