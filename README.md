@@ -1,5 +1,5 @@
 # Square Employee Directory App
- The app displays the employee lists from the given square backend using reccycleview. The app runs on any android phone devices OS >= 23 . Tested on Pixel 2 phone running OS 29
+ The app displays the alphabetically sorted employee lists from the given square backend using reccycleview. The app runs on any android phone devices OS >= 23 . Tested on Pixel 2 phone running OS 29
 
 # Technology Used :
 **Platform** : Android 
