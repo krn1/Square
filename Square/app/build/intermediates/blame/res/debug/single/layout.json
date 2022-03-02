@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/kraghu/Workspace/Square/Square/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/view_employee_list_item.xml",
+        "source": "/Users/kraghu/Workspace/Square/Square/app/src/main/res/layout/view_employee_list_item.xml"
+    },
+    {
+        "merged": "/Users/kraghu/Workspace/Square/Square/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_employee_list.xml",
+        "source": "/Users/kraghu/Workspace/Square/Square/app/src/main/res/layout/activity_employee_list.xml"
+    },
+    {
+        "merged": "/Users/kraghu/Workspace/Square/Square/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/include_progress_bar.xml",
+        "source": "/Users/kraghu/Workspace/Square/Square/app/src/main/res/layout/include_progress_bar.xml"
+    }
+]
